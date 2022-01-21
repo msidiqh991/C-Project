@@ -1,0 +1,92 @@
+--------------------
+Struk Pembelanjaan
+--------------------
+No. barang ke-1
+Nama barang 	: Fanta
+Jumlah barang 	: 2
+Harga satuan  	: 5000
+Jumlah harga  	: Rp.10000
+
+No. barang ke-2
+Nama barang 	: Teajus
+Jumlah barang 	: 2
+Harga satuan  	: 1000
+Jumlah harga  	: Rp.2000
+
+No. barang ke-3
+Nama barang 	: Tehgelas
+Jumlah barang 	: 2
+Harga satuan  	: 1500
+Jumlah harga  	: Rp.3000
+
+-----------------------------------
+	Total harga   : Rp.15000
+--------------------
+Struk Pembelanjaan
+--------------------
+No. barang ke-1
+Nama barang 	: Fanta
+Jumlah barang 	: 5000
+Harga satuan  	: 2
+Jumlah harga  	: Rp.10000
+
+No. barang ke-2
+Nama barang 	: Teajus
+Jumlah barang 	: 2
+Harga satuan  	: 1000
+Jumlah harga  	: Rp.2000
+
+No. barang ke-3
+Nama barang 	: Tehgelas
+Jumlah barang 	: 2
+Harga satuan  	: 1500
+Jumlah harga  	: Rp.3000
+
+-----------------------------------
+	Total harga   : Rp.15000
+--------------------
+Struk Pembelanjaan
+--------------------
+No. barang ke-1
+Nama barang 	: Fanta
+Jumlah barang 	: 2
+Harga satuan  	: 5000
+Jumlah harga  	: Rp.10000
+
+No. barang ke-2
+Nama barang 	: Teajus
+Jumlah barang 	: 2
+Harga satuan  	: 1000
+Jumlah harga  	: Rp.2000
+
+No. barang ke-3
+Nama barang 	: Tehgelas
+Jumlah barang 	: 2
+Harga satuan  	: 1500
+Jumlah harga  	: Rp.3000
+
+-----------------------------------
+	Total harga   : Rp.15000
+--------------------
+Struk Pembelanjaan
+--------------------
+No. barang ke-1
+Nama barang 	: Fanta
+Jumlah barang 	: 2
+Harga satuan  	: 5000
+Jumlah harga  	: Rp.10000
+
+No. barang ke-2
+Nama barang 	: Teajus
+Jumlah barang 	: 2
+Harga satuan  	: 1000
+Jumlah harga  	: Rp.2000
+
+No. barang ke-3
+Nama barang 	: Tehgelas
+Jumlah barang 	: 2
+Harga satuan  	: 1500
+Jumlah harga  	: Rp.3000
+
+-----------------------------------
+	Total harga   : Rp.15000
