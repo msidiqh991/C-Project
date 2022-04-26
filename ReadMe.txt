@@ -1,5 +1,8 @@
-Information ver -- 1.0
+Information ver -- 2.0
 
 ---
 
 Learning path C Language
+###
+Medium course
+
