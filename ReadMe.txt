@@ -1,8 +1,9 @@
-Information ver -- 2.0
+## Example Program on C++ Language
+
+Information ver -- 3.0
 
 ---
 
-Learning path C Language
-###
-Medium course
+Learning path C / C++ Language
 
+### Beginner course
