@@ -2,11 +2,10 @@
 
 Information based by :
 <br>
-#### Algorithm Programming
-#### Data Structure
+#### Algorithm Programming <br> Data Structure
 
 ---
 
 Learning path C / C++ Language
 
-### Beginner course
+### References course
