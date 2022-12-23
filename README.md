@@ -1,6 +1,9 @@
 ### Example Program on C++ Language
 
-Information ver -- 3.0
+Information based by :
+<br>
+#### Algorithm Programming
+#### Data Structure
 
 ---
 
